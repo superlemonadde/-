@@ -1,0 +1,21 @@
+# 编译产物
+server_app
+client_app
+*.exe
+*.out
+*.o
+*.obj
+
+# 接收到的测试文件
+received.bin
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+Thumbs.db
+Desktop.ini
+.DS_Store
